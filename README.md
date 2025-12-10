@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sib11122&label=Profile%20views&color=0e75b6&style=flat" alt="sib11122" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sib11122&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
@@ -50,13 +44,7 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sib11122&layout=compact&theme=tokyonight" height="165px"/>
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sib11122&show_icons=true&theme=tokyonight" height="165px"/>
-</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sib11122&theme=tokyonight" height="165px"/>
